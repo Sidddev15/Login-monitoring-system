@@ -25,9 +25,16 @@ BootCam is a lightweight Python-based tool that runs on Linux systems. Every tim
 
 ---
 
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/519b2269-7061-40f5-81eb-1f2f1ab36fe8)
+
+---
+
 ## 🚀 How to Use
 
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/your-username/bootcam.git
 cd bootcam
+
+
